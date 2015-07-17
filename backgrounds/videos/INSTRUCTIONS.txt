@@ -1,0 +1,4 @@
+1. Unzip this into your sleekLoad 'backgrounds/video' folder
+2. Config 'js/config.js' to use it
+
+Have fun with your video backgrounds :)
